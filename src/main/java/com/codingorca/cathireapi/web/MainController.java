@@ -38,9 +38,6 @@ public class MainController {
 		String[] contents = {"떼껄룩", "길껄룩", "집껄룩"};
 		int[] prices = {39800, 159000, 45000};
 		                   
-		                   
-		
-		
 		Map<String, Object> map = null;
 		
 		for(int i = 0; i < titles.length; i++) {
