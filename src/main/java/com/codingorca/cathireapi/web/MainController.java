@@ -35,7 +35,7 @@ public class MainController {
 		 * */
 		ArrayList<Map<String, Object>> list = new ArrayList<Map<String, Object>>();
 		String[] titles = {"떼껄룩", "길껄룩", "집껄룩"};
-		String[] contents = {"떼껄룩", "길껄룩", "집껄룩"};
+		String[] contents = {"흔한 떼껄룩 입니다", "매우 강력한 길껄룩입니다", "약하지만 매우 귀여운 집껄룩 입니다"};
 		int[] prices = {39800, 159000, 45000};
 		                   
 		Map<String, Object> map = null;
